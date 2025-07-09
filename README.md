@@ -1,5 +1,10 @@
 # Projetofinal_creditscore
 
+## Vídeo da aplicação 
+https://github.com/user-attachments/assets/2b07f2fe-e922-403f-aef0-088f750e24d9
+
+
+
 ## Descrição do Projeto  
 Este projeto apresenta a construção de um modelo de **credit scoring** para cartão de crédito, utilizando um conjunto de dados com 15 safras e 12 meses de acompanhamento da performance dos clientes. O objetivo principal é prever a probabilidade de inadimplência, auxiliando na tomada de decisão para concessão de crédito de forma mais assertiva e segura.
 
